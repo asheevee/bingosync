@@ -704,7 +704,7 @@ var bingoList = {
         "Synergy": ["SH"]
     },
     "Pileated": {
-        "Desc": "Justice Alloy",
+        "Desc": "Justice Alloy (SH7)",
         "Diff": 11,
         "Synergy": ["SH", "EK"]
     },
