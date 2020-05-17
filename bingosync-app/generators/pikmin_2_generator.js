@@ -664,7 +664,7 @@ var bingoList = {
         "Diff": 1
     },
     "Gauge": {
-        "Desc": "Prototype Detector",
+        "Desc": "Prototype Detector (HoB5)",
         "Diff": 2,
         "Excludes": ["Empress", "Empire"],
         "Synergy": ["BuriedTreasure", "HoBClear", "EK"]
