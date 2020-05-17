@@ -904,7 +904,7 @@ var bingoList = {
         "Excludes": ["10Pellet"]
     },
     "OI": {
-        "Desc": "Optical Illustration [US] / Abstract Masterpiece [PAL]",
+        "Desc": "Optical Illustration [US] / Abstract Masterpiece [PAL] (PP)",
         "Diff": 23,
         "Synergy": ["ElecGates"]
     },
